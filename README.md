@@ -1,5 +1,5 @@
-# alumbase.github.io
- Web-based System to search and sort alumni information based on Information Systems Major	 
+# Web-based System to search and sort alumni information based on Information Systems Major	
+  
 <br />
 
 ********To protect privacy of Alumni, Only SQL codes and ERD Diagram have been shared*********
